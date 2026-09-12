@@ -1,0 +1,1 @@
+# ex_tec_prog1.2
